@@ -23,6 +23,8 @@ more_movies = [
   :release_date => '25-Jan-2002'},
   {:title => 'The Notebook', :rating => 'PG-13',
   :release_date => '19-Dec-2000'},
+   {:title => 'Mean Girls', :rating => 'PG-13',
+    :release_date => '19-Dec-2001'},
 ]
 
 more_movies.each do |movie|
